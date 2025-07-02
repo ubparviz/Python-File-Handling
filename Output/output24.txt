@@ -1,0 +1,10 @@
+O'quvchi: Ali, Baho: 4
+O'quvchi: Malika, Baho: 5
+O'quvchi: Sardor, Baho: 3
+O'quvchi: Nigora, Baho: 5
+O'quvchi: Bekzod, Baho: 4
+O'rtacha baholar: 4.20
+
+O'rtacha bahodan yuqori olganlar:
+Malika - 5
+Nigora - 5

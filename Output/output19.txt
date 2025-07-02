@@ -1,0 +1,5 @@
+O'quvchi: Ali, Baho: 4
+O'quvchi: Malika, Baho: 5
+O'quvchi: Sardor, Baho: 3
+O'quvchi: Nigora, Baho: 5
+O'quvchi: Bekzod, Baho: 4
